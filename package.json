@@ -16,7 +16,7 @@
   "type": "commonjs",
   "main": "bin/cli.js",
   "bin": {
-    "crenvex": ".bin/cli.js"
+    "crenvex": "bin/cli.js"
   },
   "engines": {
     "node": ">=14.0.0"
