@@ -48,29 +48,29 @@ crenvex [inputFile] [options]
 ### Basic usage
 
 ```bash
-npx crenvex
+crenvex
 ```
 
 ### Specify an input file
 
 ```bash
-npx crenvex .env.local
+crenvex .env.local
 ```
 
 ### Specify both input and output file
 
 ```bash
-npx crenvex .env.local -o .env.local.example
+crenvex .env.local -o .env.local.example
 ```
 
 ### Remove comments
 
 ```bash
-npx crenvex -nc
+crenvex -nc
 ```
 
 ### Remove Empty lines
 
 ```bash
-npx crenvex -nel
+crenvex -nel
 ```
