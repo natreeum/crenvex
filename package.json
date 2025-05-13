@@ -1,0 +1,24 @@
+{
+  "name": "crenvex",
+  "version": "1.0.1",
+  "description": "Generate .env.example easily",
+  "keywords": [
+    "dot-env",
+    "dotenv",
+    "env",
+    "env-example",
+    ".env",
+    ".env.example",
+    "cli"
+  ],
+  "license": "MIT",
+  "author": "kmscompany",
+  "type": "commonjs",
+  "main": "bin/cli.js",
+  "bin": {
+    "env-ex": ".bin/cli.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
