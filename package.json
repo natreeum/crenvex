@@ -1,6 +1,6 @@
 {
   "name": "crenvex",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate .env.example easily",
   "keywords": [
     "dot-env",

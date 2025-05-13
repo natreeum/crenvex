@@ -17,7 +17,7 @@ npm install -g crenvex
 or use it directly with npx:
 
 ```bash
-npx env-ex
+npx crenvex
 ```
 
 ---
@@ -25,7 +25,7 @@ npx env-ex
 ## 🚀 Usage
 
 ```bash
-env-ex [inputFile] [options]
+crenvex [inputFile] [options]
 ```
 
 - Default for
