@@ -1,6 +1,6 @@
 {
   "name": "crenvex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate .env.example easily",
   "keywords": [
     "dot-env",
@@ -16,7 +16,7 @@
   "type": "commonjs",
   "main": "bin/cli.js",
   "bin": {
-    "env-ex": ".bin/cli.js"
+    "crenvex": ".bin/cli.js"
   },
   "engines": {
     "node": ">=14.0.0"
