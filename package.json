@@ -1,6 +1,6 @@
 {
   "name": "crenvex",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Generate .env.example easily",
   "keywords": [
     "dot-env",
@@ -20,5 +20,13 @@
   },
   "engines": {
     "node": ">=14.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natreeum/crenvex"
+  },
+  "bugs": {
+    "url": "https://github.com/natreeum/crenvex/issues"
+  },
+  "homepage": "https://github.com/natreeum/crenvex#readme"
 }
